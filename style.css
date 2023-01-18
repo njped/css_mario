@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main_body {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.hat1 {
+    position: absolute;
+    color:red;
+    width: 500px;
+    height: 100px;
+}
+
+.hat2 {
+    position: absolute;
+    color: red;
+    width: 700px;
+    height: 100px;
+}
